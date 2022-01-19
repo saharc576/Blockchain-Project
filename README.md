@@ -24,6 +24,8 @@ This leads us to the next topic - Proof of Work and Proof of Stake, which are tw
 Proof of Work - a model that requires solving a complex mathematical equation using computing power. The users compete against each other in order to solve the equation, and those that solve it first are given the right to validate the transaction, which in return are rewarded with digital currency for their validation work. The computing power requires a lot of energy power, which is very expensive and not environmentally friendly. 
 Proof of Stake - enables the user to stake their digital coins, which gives them the right to validate new block transactions. The user’s ability to put their coins at ‘stake’ is given to them based on their record, how long they have been staking their coins, and of course the amount of money that they are willing to put at stake for the validation. An algorithm is used to determine which user is chosen to stake their digital coins, based on all their information. It requires less energy, is more secure, and is more scalable. 
 
+## Ethereum: 
+What is Ethereum? It is the second largest cryptocurrency available today. It is an open source blockchain platform that uses smart contracts and runs on the Proof of Work model. 
 
 ## Besu Ethereum: 
 Besu is a Java based Ethereum client, a piece of software that is designed to implement the Ethereum protocol, that can be run on private and public networks, as well as test nets like the one used in our DApp - Truffle. The hyperledger besu has a wide range of features, which gives the platform versatility to support a wide range of uses. 
